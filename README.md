@@ -27,7 +27,7 @@ write your own code here
 
 ## Pre-trained Models
 You can download pretrained models here:
-* <write your own link here>
+* <http://example.com/>
 
 ## Results
 Our model's performance is here:
